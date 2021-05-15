@@ -1,3 +1,4 @@
+
 a = input("Bir sayı giriniz: ").strip()
 if a.isdigit():
   rakam = int(a)
@@ -12,3 +13,4 @@ if a.isdigit():
     print(a, "sayısı Armstrong sayı DEĞİLDİR.")
 else:
  print ("lütfen uygun formatta giriniz!!")
+
